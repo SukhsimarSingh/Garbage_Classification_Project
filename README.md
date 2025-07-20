@@ -1,4 +1,4 @@
-# Garbage-Classification-Project
+# ML-Garbage-Classification
 
 A machine learning project for classifying garbage into different categories, enabling smarter and more efficient waste segregation.
 
